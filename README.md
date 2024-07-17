@@ -1,2 +1,2 @@
-# widjet_leads
-Widjet leads amoCrm
+# widget_leads
+Widget leads amoCrm
